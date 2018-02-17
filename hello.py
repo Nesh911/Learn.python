@@ -1,0 +1,4 @@
+Nesh = "Viktor"
+
+print(Nesh)
+
